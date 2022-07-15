@@ -1,0 +1,52 @@
+body {
+    background-color: #E6DDD9;
+    color: #212023; 
+    font-family: Raleway, sans-serif;
+    
+}
+
+img {
+    width: 250px;
+    height: auto;
+    box-shadow: 5px 4px #AB8476;   
+}
+
+section {
+    position: relative;
+    top: 1em;
+    left: 30px;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.side-left {
+    line-height: 0.5em;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #212023;
+}
+
+.side-right {
+    position: absolute;
+    top: 0px;
+    left: 400px;
+}
+
+h2 {  
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: underline #96705B;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+}
